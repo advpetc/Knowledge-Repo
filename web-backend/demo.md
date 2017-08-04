@@ -38,6 +38,6 @@ $ python manage.py loaddata imtx.json --database=postgresql
 **一些资源分享**
 
 * [Django](djangoproject.com)，官方给了一个很详细的教程，做的是一个投票系统，MVC框架在看完这个教程之后就基本了解了。
-* [Node.js](https://nodejs.org/en/)，这次实习我自己没有用node，不过看到别人用的时候感觉很酷，尤其是移步进程的部分非常值得学习，可以提升网页速度，这里稍微提一下debug的工具[node-inspector](https://github.com/node-inspector/node-inspector)，用`$ npm install -g node-inspector`就安装好了。
-* 关于数据库我整理了一个从备份postgres数据库的脚本，在[Gist](https://gist.github.com/advpetc/9ec48862fa2f64ed5505cb39c47a56ec)上分享。里面需要了解以下CronTab的知识。
-* [Postgres](https://www.postgresql.org/)，这个数据库由有很多支持的第三方客户端，我比较喜欢的是在Mac上的[Posgres.app](http://postgresapp.com/)，一键式的启动，不过在具体操作的时候还是用的JetBrain的[DataGrip](https://www.jetbrains.com/datagrip/)，这里顺便提一下JetBrain免费提供学生使用，所以如果是学生强推直接升级的professional版，我用的PyCharm在升级之后发现可以直接调用数据库，非常酸爽。
+* [Node.js](https://nodejs.org/en/)，这次实习我自己没有用node，不过看到别人用的时候感觉很酷，尤其是异步进程的部分非常值得学习，可以提升网页速度，这里稍微提一下debug的工具[node-inspector](https://github.com/node-inspector/node-inspector)，用`$ npm install -g node-inspector`就安装好了。
+* 关于数据库我整理了一个从备份postgres数据库的脚本，在[Gist](https://gist.github.com/advpetc/9ec48862fa2f64ed5505cb39c47a56ec)上分享。里面需要了解一下CronTab的知识。
+* [Postgres](https://www.postgresql.org/)，这个数据库由有很多支持的第三方客户端，我比较喜欢的是在Mac上的[Posgres.app](http://postgresapp.com/)，一键式的启动，不过在具体操作的时候还是用的JetBrain的[DataGrip](https://www.jetbrains.com/datagrip/)，这里顺便提一下JetBrain免费提供学生使用，所以如果是学生强推直接升级professional版，我用的PyCharm在升级之后发现可以直接调用数据库，非常酸爽。

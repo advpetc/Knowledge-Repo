@@ -1,13 +1,18 @@
 # Summary
 
-### Part I
+### Part I: Web Development
 
 * [Web Frontend](web-frontend/README.md)
     * [How to get start](web-frontend/demo.md)
 * [Web Backend](web-backend/README.md)
     * [How to get start](web-backend/demo.md)
 
-### Part II
+### Part II: Machine Learning
 
 * [Machine Learning](machine-learning/README.md)
     * [How to get start](machine-learning/demo.md)
+
+### Part III: Embedded System
+
+* [Embedded System](embedded-system/README.md)
+    * [How to get start](embedded-system/demo.md)
