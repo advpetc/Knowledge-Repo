@@ -24,3 +24,6 @@ _book
 ## custom attributes of its containing folder, such as the position of
 ## icons or the choice of a background image
 .DS_Store*
+
+## this file will be created automatically if package.json exist
+package-lock.json
