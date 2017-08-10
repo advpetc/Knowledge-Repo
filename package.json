@@ -2,6 +2,6 @@
   "name": "Knowledge-Repo",
   "version": "0.0.1",
   "dependencies": {
-    
+    "gitbook-plugin-theme-api": "^1.1.2"
   }
 }
