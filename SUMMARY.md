@@ -1,23 +1,24 @@
 # Summary
-* [How to contribute](CONTRIBUTE.md)
+* [Contribution Guide](CONTRIBUTE.md)
 
 ### Part 1: Web Development
 
 * [Web Frontend](web-frontend/README.md)
-    * [How to get start](web-frontend/demo.md)
+    * [Getting Started](web-frontend/demo.md)
 * [Web Backend](web-backend/README.md)
-    * [How to get start](web-backend/demo.md)
+    * [A Brief Intro](web-backend/demo.md)
+    * [Getting Started with Node.js](web-backend/Node.js/README.md)
 
 ### Part 2: Machine Learning
 
 * [Machine Learning](machine-learning/README.md)
-    * [How to get start](machine-learning/demo.md)
+    * [Getting Started](machine-learning/demo.md)
 
 ### Part 3: Embedded System
 
 * [Embedded System](embedded-system/README.md)
-    * [How to get start](embedded-system/demo.md)
+    * [Getting Started](embedded-system/demo.md)
 
-### Part 4: Operation System
+### Part 4: Operating System
 
-* [Operation System](operation-system/README.md)
+* [Operating System](operation-system/README.md)
