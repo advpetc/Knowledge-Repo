@@ -1,4 +1,4 @@
-**In this directory you will find everything about web frontend development**
+**In this directory you will find everything about web backend development**
 
 * [Random technologies learnt from internship](demo.md)
 
