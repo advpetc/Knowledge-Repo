@@ -8,7 +8,7 @@
 * [Web Backend](web-backend/README.md)
     * [A Brief Intro](web-backend/demo.md)
     * [Getting Started with Node.js](web-backend/Node.js/README.md)
-    * [Using Gson to parse data in json format](web-backend/gson.md)
+    * [Using Gson to parse data](web-backend/gson.md)
 
 ### Part 2: Machine Learning
 
