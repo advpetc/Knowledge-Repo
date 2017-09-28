@@ -2,13 +2,15 @@ This is the contribute.md of our project. Great to have you here. Here are a few
 
 ## Team members
 
-This section introduces the core team members.
+**Haoyang Chen**
+
+**Zijian Hu**
 
 ## Learn & listen
 
 This section includes ways to get started with your open source project. Include links to documentation and to different communication channels:
 
-* Gitbook Website: advpetc.ml
+* Gitbook Website: [Website](advpetc.ml)
 
 ## Adding new features
 
@@ -120,4 +122,4 @@ testing from here:
 # Your first bugfix
 This section should help a person get started with their very first bug fix and thinking through the problem.
 
-* If you have further questions, contact: chenhaoy@usc.edu
+* If you have further questions, contact: [Email](mailto:chenhaoy@usc.edu)
